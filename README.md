@@ -1,1 +1,1 @@
-## Some awesome python scripts I use for my usual work.
+## Some awesome scripts I use for my usual work.
